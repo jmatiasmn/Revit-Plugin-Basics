@@ -1,0 +1,12 @@
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\ClassLibrary1\bin\X64\Debug\cbb.dll
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\ClassLibrary1\bin\X64\Debug\cbb.pdb
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\ClassLibrary1\obj\X64\Debug\cbb.csproj.AssemblyReference.cache
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\ClassLibrary1\obj\X64\Debug\cbb.csproj.CoreCompileInputs.cache
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\ClassLibrary1\obj\X64\Debug\cbb.dll
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\ClassLibrary1\obj\X64\Debug\cbb.pdb
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\cbb\bin\X64\Debug\cbb.dll
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\cbb\bin\X64\Debug\cbb.pdb
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\cbb\obj\X64\Debug\cbb.csproj.AssemblyReference.cache
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\cbb\obj\X64\Debug\cbb.csproj.CoreCompileInputs.cache
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\cbb\obj\X64\Debug\cbb.dll
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\cbb\obj\X64\Debug\cbb.pdb
