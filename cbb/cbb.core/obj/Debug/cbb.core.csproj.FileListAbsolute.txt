@@ -1,0 +1,6 @@
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\cbb.core\bin\Debug\cbb.core.dll
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\cbb.core\bin\Debug\cbb.core.pdb
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\cbb.core\obj\Debug\cbb.core.csproj.AssemblyReference.cache
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\cbb.core\obj\Debug\cbb.core.csproj.CoreCompileInputs.cache
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\cbb.core\obj\Debug\cbb.core.dll
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\cbb.core\obj\Debug\cbb.core.pdb

@@ -10,3 +10,10 @@ C:\Users\jmati\Desktop\Marko Koljancic\cbb\cbb\obj\X64\Debug\cbb.csproj.Assembly
 C:\Users\jmati\Desktop\Marko Koljancic\cbb\cbb\obj\X64\Debug\cbb.csproj.CoreCompileInputs.cache
 C:\Users\jmati\Desktop\Marko Koljancic\cbb\cbb\obj\X64\Debug\cbb.dll
 C:\Users\jmati\Desktop\Marko Koljancic\cbb\cbb\obj\X64\Debug\cbb.pdb
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\cbb\bin\X64\Debug\cbb.ui.dll
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\cbb\bin\X64\Debug\cbb.core.dll
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\cbb\bin\X64\Debug\cbb.res.dll
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\cbb\bin\X64\Debug\cbb.ui.pdb
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\cbb\bin\X64\Debug\cbb.core.pdb
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\cbb\bin\X64\Debug\cbb.res.pdb
+C:\Users\jmati\Desktop\Marko Koljancic\cbb\cbb\obj\X64\Debug\cbb.csproj.CopyComplete

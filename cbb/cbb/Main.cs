@@ -33,27 +33,8 @@ namespace cbb
         /// <exception cref="NotImplementedException"></exception>
         public Result OnStartup(UIControlledApplication application)
         {
-            //Plugin's maing tab name;
-            string tabName = "Circle's Bim Blog";
-
-            //Panel name hosted on ribbon tab.
-            string pannelAnotationName = "Annotation Commnds";
-
-            //Create Tab on Revit UI.
-            application.CreateRibbonTab(tabName);
-
-            //Create first panel on Revit Ribbon tab;
-           var panelAnnotation = application.CreateRibbonPanel(tabName, pannelAnotationName);
-
-            //Create push button data and populate it with information.
-            var tagWallLayersBtnData = new PushButtonData("TagWallLayersBtnData", "Tag Wall \nLayers", Assembly.GetExecutingAssembly().Location, "cbb.TagWallLayersCommand")
-            {
-                ToolTipImage = new BitmapImage(new Uri(@"C:\Users\jmati\Desktop\Marko Koljancic\res\wall.png")),
-                ToolTip = "This is some sample tooltip text, replace it later"
-            };
-
-            var TagWallLayersBtn = panelAnnotation.AddItem(tagWallLayersBtnData) as PushButton;
-            TagWallLayersBtn.LargeImage = new BitmapImage(new Uri(@"C:\Users\jmati\Desktop\Marko Koljancic\res\32.jpg"));
+            SetupInterface ui = new SetupInterface();
+            ui.Initialize(application);
 
 
             return Result.Succeeded;

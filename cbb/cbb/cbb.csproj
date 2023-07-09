@@ -68,9 +68,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Commands\TagWallLayersCommand.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SetupInterface.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\cbb.core\cbb.core.csproj">
+      <Project>{6182F5BB-C96E-48B1-AD44-AFBEB577D5CD}</Project>
+      <Name>cbb.core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\cbb.ui\cbb.ui.csproj">
+      <Project>{df08db77-6d9c-421b-a2cc-30749cbb5e4f}</Project>
+      <Name>cbb.ui</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
